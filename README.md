@@ -1,3 +1,3 @@
-# NN-ML-models
-Neural networks/ machine learning models using tensorflow.
-TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+# Machine Learning Practice
+
+This is my personal repository for learning, revising and practicing various machine learning techniques. Open to use for learning purposes.
